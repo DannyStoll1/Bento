@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Danny',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Party hard,',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://www.gmail.com/',
     },
     {
       id: '3',
@@ -81,37 +81,37 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'video',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'YouTube',
+        link: 'https://www.youtube.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Twitch',
+        link: 'https://www.twitch.com/directory/game/Chess',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Lichess',
+        link: 'https://www.lichess.org',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Chess24',
+        link: 'https://chess24.com/en',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'ArchWiki',
+        link: 'https://wiki.archlinux.org/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Bandcamp',
+        link: 'https://www.bandcamp.com/',
       },
       {
         name: 'Dribbble',
